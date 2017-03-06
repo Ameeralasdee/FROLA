@@ -1,7 +1,6 @@
-@TH3BOSS 
+@virus29 
   
-  
- كيفية تنصيب سورس الزعيم 
+  كيف  تنصيب سورس virus 
  
 ```sh
 
@@ -23,11 +22,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TEAMBOSS.git
+git clone https://github.com/Ameeralasdee/FROLA.git
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
-cd TEAMBOSS
+cd FROLA
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
@@ -48,11 +47,11 @@ chmod +x TEAMBOSS.sh
 مبروك عليك افضل بوت عل تلي 
 
 عندك استفسار او اي شي راسلني
-@TH3BOSS
+@dvl_Ameer
 واذا محظور تعال على بوت التواصل
-@ll60Kllbot
+@virus29_bot
 قـنـاة الـسـورس
-@llDEV1ll
+@virus29
 
  Enter a phone number & confirmation code.
 Congratulations, you better bot
@@ -98,12 +97,4 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
     YourID
   }
 ```
- مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
-Dev_BOT :  [@ll60KllBOT](https://telegram.me/ll60KllBOT)
-Dev_Channel : [@llDEV1ll](https://telegram.me/llDEV1ll)
-عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
-You have an idea to develop Alsoors or bot prefer 🏿️
-
-(https://telegram.me/TH3BOSS)
